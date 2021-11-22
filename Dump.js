@@ -63,7 +63,7 @@ async function load(_id=0){
 	}catch(e){
 		console.log('Ашибка. Пробуем снова через секунду.');
 		await sleep(after_error_wait_time);
-		load(id);
+		load(_id);
 	}
 }
 
