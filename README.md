@@ -6,7 +6,7 @@
 
 У меня время дампа заняло примерно 10 минут. 0 ошибок. Пока что никаких проверок на кол-во запросов они не делают.
 
-1)git pull https://github.com/Exieros/DumpBBKtoJSON.git<br/>
+1)git clone https://github.com/Exieros/DumpBBKtoJSON.git<br/>
 2)cd DumpBBKtoJSON<br/>
 3)npm install <br/>
 4)update cookie!<br/>
